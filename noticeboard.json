@@ -1,0 +1,85 @@
+{
+    "noticeboard": {
+      "notice_one": {
+        "department": "Academic Affairs",
+        "sender": "admin@college.edu",
+        "to": "all students",
+        "ref": "Final Exam Schedule Available",
+        "message": "The final exam schedule for the Fall 2023 semester is now available. Please see the attached document for more information.",
+        "timestamp": "2023-07-15T12:00:00Z"
+      },
+      "notice_two": {
+        "department": "Library",
+        "sender": "librarian@college.edu",
+        "to": "christian union",
+        "ref": "Library Closure",
+        "message": "The library will be closed on Saturday, July 18th for a staff training session. We apologize for any inconvenience this may cause.",
+        "timestamp": "2023-07-18T12:00:00Z"
+      },
+      "notice_three": {
+        "department": "Student Affairs",
+        "sender": "orientation@college.edu",
+        "to": "all students",
+        "ref": "New Student Orientation",
+        "message": "New student orientation will be held on Saturday, August 1st from 9am to 1pm in the Student Union Ballroom. This event is for all new students who will be attending the college this fall.",
+        "timestamp": "2023-08-01T12:00:00Z"
+      },
+      "notice_four": {
+        "department": "Financial Aid",
+        "sender": "financialaid@college.edu",
+        "to": "all students",
+        "ref": "Financial Aid Deadline",
+        "message": "The deadline to apply for financial aid is approaching. Please submit your application by August 15th.",
+        "timestamp": "2023-08-08T12:00:00Z"
+      },
+      "notice_five": {
+        "department": "Registrar",
+        "sender": "registrar@college.edu",
+        "to": "all students",
+        "ref": "Fall 2023 Semester Start",
+        "message": "The Fall 2023 semester will begin on August 22nd. Please make sure to register for your classes by August 15th.",
+        "timestamp": "2023-08-15T12:00:00Z"
+      },
+      "notice_six": {
+        "department": "Athletics",
+        "sender": "athletics@college.edu",
+        "to": "all students",
+        "ref": "Football Team's First Game",
+        "message": "The football team will be playing their first game of the season on August 27th. Tickets are on sale now.",
+        "timestamp": "2023-08-22T12:00:00Z"
+      },
+      "notice_seven": {
+        "department": "Student Life",
+        "sender": "studentlife@college.edu",
+        "to": "all students",
+        "ref": "Upcoming Club Fair",
+        "message": "The annual club fair will take place on September 5th in the Student Union. Don't miss out on this opportunity to join various student organizations.",
+        "timestamp": "2023-09-05T12:00:00Z"
+      },
+      "notice_eight": {
+        "department": "Career Services",
+        "sender": "careerservices@college.edu",
+        "to": "all students",
+        "ref": "Resume Workshop",
+        "message": "A resume workshop will be held on September 10th at 2pm in the Career Services Center. Learn valuable tips and techniques to enhance your resume.",
+        "timestamp": "2023-09-10T12:00:00Z"
+      },
+      "notice_nine": {
+        "department": "Housing",
+        "sender": "housing@college.edu",
+        "to": "residential students",
+        "ref": "Room Selection Process",
+        "message": "The room selection process for the upcoming academic year will begin on September 15th. Stay tuned for more information.",
+        "timestamp": "2023-09-15T12:00:00Z"
+      },
+      "notice_ten": {
+        "department": "Health Services",
+        "sender": "healthservices@college.edu",
+        "to": "all students",
+        "ref": "Flu Shot Clinic",
+        "message": "A flu shot clinic will be held on October 1st from 9am to 4pm in the Student Health Center. Protect yourself from the flu this season.",
+        "timestamp": "2023-10-01T12:00:00Z"
+      }
+    }
+  }
+  
