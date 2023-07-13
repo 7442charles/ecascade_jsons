@@ -14,6 +14,19 @@
       }
     },
     {
+      "name": "Charles kinaro",
+      "admissionNumber": "CIH/DHM/1506M/2019",
+      "units": {
+        "kitchenOrganisation": 85,
+        "kitchenHygiene": 72,
+        "stocksAndSoups": 90,
+        "breadAndDough": 78,
+        "pastry": 95,
+        "eggsAndPasta": 88,
+        "meat": 80
+      }
+    },
+    {
       "name": "Emily Johnson",
       "admissionNumber": "CIH/DHM/1001M/2019",
       "units": {
