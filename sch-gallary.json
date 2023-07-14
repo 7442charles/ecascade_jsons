@@ -1,31 +1,31 @@
 {
     "images": [
       {
-        "path": "sch gallary/image_5.jpg",
+        "path": "/schgallary/image_5.jpg",
         "caption": "Beautiful sunset"
       },
       {
-        "path": "sch gallary/image_6.jpg",
+        "path": "/schgallary/image_6.jpg",
         "caption": "Adorable puppy"
       },
       {
-        "path": "sch gallary/image_7.jpg",
+        "path": "/schgallary/image_7.jpg",
         "caption": "City skyline at night"
       },
       {
-        "path": "sch gallary/image_one.jpg",
+        "path": "/schgallary/image_one.jpg",
         "caption": "Delicious food platter"
       },
       {
-        "path": "sch gallary/image_two.jpg",
+        "path": "/schgallary/image_two.jpg",
         "caption": "Serene beach view"
       },
       {
-        "path": "sch gallary/image_three.jpg",
+        "path": "/schgallary/image_three.jpg",
         "caption": "Colorful autumn leaves"
       },
       {
-        "path": "sch gallary/image_four.jpg",
+        "path": "/schgallary/image_four.jpg",
         "caption": "Stunning mountain range"
       }
     ]
