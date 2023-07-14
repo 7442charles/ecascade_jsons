@@ -1,33 +1,39 @@
 {
-    "images": [
-      {
-        "path": "/schgallary/image_5.jpg",
-        "caption": "Beautiful sunset"
-      },
-      {
-        "path": "/schgallary/image_6.jpg",
-        "caption": "Adorable puppy"
-      },
-      {
-        "path": "/schgallary/image_7.jpg",
-        "caption": "City skyline at night"
-      },
-      {
-        "path": "/schgallary/image_one.jpg",
-        "caption": "Delicious food platter"
-      },
-      {
-        "path": "/schgallary/image_two.jpg",
-        "caption": "Serene beach view"
-      },
-      {
-        "path": "/schgallary/image_three.jpg",
-        "caption": "Colorful autumn leaves"
-      },
-      {
-        "path": "/schgallary/image_four.jpg",
-        "caption": "Stunning mountain range"
-      }
-    ]
-  }
-  
+  "images": [
+    {
+      "path": "/schgallary/image_5.jpg",
+      "caption": "Beautiful sunset",
+      "date": "2023-07-01"
+    },
+    {
+      "path": "/schgallary/image_6.jpg",
+      "caption": "Adorable puppy",
+      "date": "2023-06-15"
+    },
+    {
+      "path": "/schgallary/image_7.jpg",
+      "caption": "City skyline at night",
+      "date": "2023-07-10"
+    },
+    {
+      "path": "/schgallary/image_one.jpg",
+      "caption": "Delicious food platter",
+      "date": "2023-06-28"
+    },
+    {
+      "path": "/schgallary/image_two.jpg",
+      "caption": "Serene beach view",
+      "date": "2023-07-05"
+    },
+    {
+      "path": "/schgallary/image_three.jpg",
+      "caption": "Colorful autumn leaves",
+      "date": "2023-10-12"
+    },
+    {
+      "path": "/schgallary/image_four.jpg",
+      "caption": "Stunning mountain range",
+      "date": "2023-07-03"
+    }
+  ]
+}
